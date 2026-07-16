@@ -1,0 +1,1 @@
+{"name":"每日打卡","short_name":"打卡","description":"记录每日打卡任务","start_url":"/daily-checkin/","display":"standalone","background_color":"#f8fafc","theme_color":"#6366f1","lang":"en","scope":"/daily-checkin/","orientation":"portrait","icons":[{"src":"favicon.svg","sizes":"any","type":"image/svg+xml"}]}
